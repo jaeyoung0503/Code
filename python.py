@@ -4,4 +4,3 @@ with open('test.kt', 'r+', encoding='utf-8') as f:
   
 print(read_data)
 
-print()
