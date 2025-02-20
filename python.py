@@ -8,4 +8,5 @@ def expo(self):
   print(self)
 
 expo("n")
+expo("no")
 
