@@ -9,4 +9,5 @@ def expo(self):
 
 expo("n")
 expo("no")
+expo("yes")
 
